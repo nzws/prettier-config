@@ -1,0 +1,14 @@
+{
+  "name": "@yuzulabo/prettier-config",
+  "version": "1.0.0",
+  "main": ".prettierrc.js",
+  "repository": "https://github.com/yuzulabo/yuzulabo-prettier-config.git",
+  "author": "nzws <git@nzws.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "scripts": {
+    "format": "prettier --write '**/*.js'"
+  }
+}
