@@ -1,13 +1,13 @@
-# @yuzulabo/prettier-config
+# @nzws/prettier-config
 
 > A shared [prettier](https://prettier.io/) config for my projects.
 
 ## Installation
 
-- Install `@yuzulabo/prettier-config` via npmjs.com
+- Install `@nzws/prettier-config` via npmjs.com
 
 ```bash
-yarn add @yuzulabo/prettier-config --dev
+npx add-pkg @nzws/prettier-config --dev
 ```
 
 - Import config in your `package.json`
@@ -15,7 +15,7 @@ yarn add @yuzulabo/prettier-config --dev
 ```
 {
   ...
-  "prettier": "@yuzulabo/prettier-config"
+  "prettier": "@nzws/prettier-config"
   ...
 }
 ```
