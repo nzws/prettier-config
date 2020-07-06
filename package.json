@@ -1,14 +1,11 @@
 {
   "name": "@nzws/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A shared prettier config for my projects.",
   "main": ".prettierrc.js",
   "repository": "https://github.com/nzws/prettier-config.git",
   "author": "nzws <git@nzws.me>",
   "license": "MIT",
-  "engines": {
-    "node": "12.x || 13.x"
-  },
   "publishConfig": {
     "access": "public"
   },
